@@ -1,0 +1,980 @@
+/* screen - home */
+
+.home {
+  background-color: rgba(250,237,220,1.0);
+  cursor: pointer;
+  height: 100vh;
+  margin: 0px;
+  min-height: 800px;
+  min-width: 1280px;
+  opacity: 1;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+.home .about-C61RwL {
+  --z-index: 7;
+  background-color: transparent;
+  color: rgba(250,237,220,1.0);
+  cursor: pointer;
+  font-family: 'AdobeClean-Regular', Helvetica;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+  height: 33px;
+  left: 129px;
+  letter-spacing: 0.12px;
+  line-height: 25px;
+  opacity: 1;
+  pointer-events: auto;
+  position: absolute;
+  text-align: center;
+  top: 114px;
+  transition: all 0.2s ease;
+  width: 100px;
+}
+.home .about-C61RwL:hover {
+
+opacity: 0;
+}
+.home .alc-integrating-dawson-college-vZhGO4 {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/alc-integrating-activity-exhibition-w2021--dawson-college---@1x.png);
+  background-size: 100% 100%;
+  height: 155px;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 78px;
+  width: 279px;
+}
+.home .artists-C61RwL {
+  --z-index: 8;
+  background-color: transparent;
+  color: rgba(250,237,220,1.0);
+  cursor: pointer;
+  font-family: 'AdobeClean-Regular', Helvetica;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+  height: 33px;
+  left: calc(19.22% - 19px);
+  letter-spacing: 0.12px;
+  line-height: 25px;
+  opacity: 1;
+  pointer-events: auto;
+  position: absolute;
+  text-align: center;
+  top: 114px;
+  transition: all 0.2s ease;
+  width: 99px;
+}
+.home .artists-C61RwL:hover {
+
+opacity: 0;
+}
+.home .coalesce-C61RwL {
+  --z-index: 3;
+  background-color: transparent;
+  bottom: calc(48.77% - 50px);
+  color: rgba(250,237,220,1.0);
+  font-family: 'AdobeClean-Regular', Helvetica;
+  font-size: 80px;
+  font-style: normal;
+  font-weight: 400;
+  height: 102px;
+  letter-spacing: 4.00px;
+  line-height: 80px;
+  opacity: 1;
+  position: absolute;
+  right: calc(43.13% - 263px);
+  text-align: center;
+  width: 610px;
+}
+.home .credits-C61RwL {
+  --z-index: 9;
+  background-color: transparent;
+  color: rgba(250,237,220,1.0);
+  cursor: pointer;
+  font-family: 'AdobeClean-Regular', Helvetica;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+  height: 33px;
+  left: calc(27.45% - 37px);
+  letter-spacing: 0.12px;
+  line-height: 25px;
+  opacity: 1;
+  pointer-events: auto;
+  position: absolute;
+  text-align: center;
+  top: 114px;
+  transition: all 0.2s ease;
+  width: 136px;
+}
+.home .credits-C61RwL:hover {
+
+opacity: 0;
+}
+.home .dawson-d-logo-large-C61RwL {
+  --z-index: 4;
+  background-color: transparent;
+  background-image: url(../img/dawson-d-logo-large-1@1x.png);
+  background-size: 100% 100%;
+  border-radius: 33px;
+  bottom: 14px;
+  cursor: pointer;
+  height: 65px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  right: 1198px;
+  width: 82px;
+}
+.home .home-C61RwL {
+  --z-index: 6;
+  background-color: transparent;
+  color: rgba(250,237,220,1.0);
+  font-family: 'AdobeClean-Regular', Helvetica;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+  height: 33px;
+  left: 35px;
+  letter-spacing: 0.12px;
+  line-height: 25px;
+  opacity: 1;
+  pointer-events: auto;
+  position: absolute;
+  text-align: center;
+  top: 114px;
+  transition: all 0.2s ease;
+  width: 96px;
+}
+.home .home-C61RwL:hover {
+
+opacity: 0;
+}
+.home .scroll-group-1-C61RwL {
+  --z-index: 5;
+  background-color: transparent;
+  bottom: 60px;
+  height: 215px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  overflow-y: scroll;
+  position: absolute;
+  right: 22px;
+  width: 279px;
+}
+.home .scroll-group-1-C61RwL::-webkit-scrollbar {
+  display: none;
+  width: 0;
+}
+.home .untitled-artwork-2-C61RwL {
+  --z-index: 2;
+  background-color: transparent;
+  background-image: url(../img/untitled-artwork-2@1x.png);
+  background-size: 100% 100%;
+  border-radius: 883px;
+  height: calc(100.00% - 57px);
+  left: 41px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 98px;
+  width: calc(100.00% + 164px);
+}
+.home .untitled-artwork-3-C61RwL {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/untitled-artwork-3@1x.png);
+  background-size: 100% 100%;
+  bottom: -120px;
+  height: 562px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  right: -366px;
+  width: 1344px;
+}
+.home .untitled-artwork-C61RwL {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/untitled-artwork@1x.png);
+  background-size: 100% 100%;
+  height: 930px;
+  left: -599px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: -309px;
+  width: 1604px;
+}
+/* screen - about */
+
+.about {
+  background-color: rgba(250,237,220,1.0);
+  height: 800px;
+  opacity: 1;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1280px;
+}
+.about .about-C61RwL {
+  --z-index: 6;
+  background-color: transparent;
+  color: rgba(250,237,220,1.0);
+  cursor: pointer;
+  font-family: 'AdobeClean-Regular', Helvetica;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 145px;
+  letter-spacing: 0.12px;
+  line-height: 25px;
+  opacity: 1;
+  pointer-events: auto;
+  position: absolute;
+  text-align: center;
+  top: 117px;
+  transition: all 0.2s ease;
+  width: 100px;
+}
+.about .about-C61RwL:hover {
+
+opacity: 0;
+}
+.about .artists-C61RwL {
+  --z-index: 7;
+  background-color: transparent;
+  color: rgba(250,237,220,1.0);
+  cursor: pointer;
+  font-family: 'AdobeClean-Regular', Helvetica;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 234px;
+  letter-spacing: 0.12px;
+  line-height: 25px;
+  opacity: 1;
+  pointer-events: auto;
+  position: absolute;
+  text-align: center;
+  top: 117px;
+  transition: all 0.2s ease;
+  width: 99px;
+}
+.about .artists-C61RwL:hover {
+
+opacity: 0;
+}
+.about .coalesce-C61RwL {
+  --z-index: 2;
+  background-color: transparent;
+  color: rgba(250,237,220,1.0);
+  font-family: 'AdobeClean-Regular', Helvetica;
+  font-size: 80px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 272px;
+  letter-spacing: 4.00px;
+  line-height: 80px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 218px;
+  width: 868px;
+}
+.about .credits-C61RwL {
+  --z-index: 8;
+  background-color: transparent;
+  color: rgba(250,237,220,1.0);
+  cursor: pointer;
+  font-family: 'AdobeClean-Regular', Helvetica;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 331px;
+  letter-spacing: 0.12px;
+  line-height: 25px;
+  opacity: 1;
+  pointer-events: auto;
+  position: absolute;
+  text-align: center;
+  top: 117px;
+  transition: all 0.2s ease;
+  width: 106px;
+}
+.about .credits-C61RwL:hover {
+
+opacity: 0;
+}
+.about .dawson-d-logo-large-C61RwL {
+  --z-index: 9;
+  background-color: transparent;
+  background-image: url(../img/dawson-d-logo-large-1@1x.png);
+  background-size: 100% 100%;
+  border-radius: 33px;
+  cursor: pointer;
+  height: 65px;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 721px;
+  width: 82px;
+}
+.about .home-C61RwL {
+  --z-index: 5;
+  background-color: transparent;
+  color: rgba(250,237,220,1.0);
+  cursor: pointer;
+  font-family: 'AdobeClean-Regular', Helvetica;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 51px;
+  letter-spacing: 0.12px;
+  line-height: 25px;
+  opacity: 1;
+  pointer-events: auto;
+  position: absolute;
+  text-align: center;
+  top: 117px;
+  transition: all 0.2s ease;
+  width: 96px;
+}
+.about .home-C61RwL:hover {
+
+opacity: 0;
+}
+.about .rectangle-1-C61RwL {
+  --z-index: 3;
+  background-color: rgba(137,68,94,0.82);
+  border: 1px solid rgba(112,112,112,1.0);
+  border-radius: 39px;
+  height: 253px;
+  left: 474px;
+  opacity: 1;
+  position: absolute;
+  top: 318px;
+  width: 426px;
+}
+.about .the-winter-seme-r-current-circu-C61RwL {
+  --z-index: 4;
+  background-color: transparent;
+  color: rgba(250,237,220,1.0);
+  font-family: 'AdobeClean-Regular', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  height: 269px;
+  left: 486px;
+  letter-spacing: 0.07px;
+  line-height: 15px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 331px;
+  width: 405px;
+}
+.about .untitled-artwork-2-C61RwL {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/untitled-artwork-2-1@1x.png);
+  background-size: 100% 100%;
+  border-radius: 883px;
+  height: 743px;
+  left: 41px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 98px;
+  width: 1444px;
+}
+.about .untitled-artwork-C61RwL {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/untitled-artwork-1@1x.png);
+  background-size: 100% 100%;
+  height: 930px;
+  left: -597px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: -314px;
+  width: 1604px;
+}
+/* screen - artists */
+
+.artists {
+  background-color: rgba(250,237,220,1.0);
+  height: 2302px;
+  opacity: 1;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1280px;
+}
+.artists .about-C61RwL {
+  --z-index: 2;
+  background-color: transparent;
+  color: rgba(250,237,220,1.0);
+  cursor: pointer;
+  font-family: 'AdobeClean-Regular', Helvetica;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 94px;
+  letter-spacing: 0.12px;
+  line-height: 25px;
+  opacity: 1;
+  pointer-events: auto;
+  position: absolute;
+  text-align: center;
+  top: 73px;
+  transition: all 0.2s ease;
+  width: 100px;
+}
+.artists .about-C61RwL:hover {
+
+opacity: 0;
+}
+.artists .artists-C61RwL {
+  --z-index: 3;
+  background-color: transparent;
+  color: rgba(250,237,220,1.0);
+  font-family: 'AdobeClean-Regular', Helvetica;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 88px;
+  letter-spacing: 0.12px;
+  line-height: 25px;
+  opacity: 1;
+  pointer-events: auto;
+  position: absolute;
+  text-align: center;
+  top: 119px;
+  transition: all 0.2s ease;
+  width: 99px;
+}
+.artists .artists-C61RwL:hover {
+
+opacity: 0;
+}
+.artists .credits-C61RwL {
+  --z-index: 4;
+  background-color: transparent;
+  color: rgba(250,237,220,1.0);
+  cursor: pointer;
+  font-family: 'AdobeClean-Regular', Helvetica;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 88px;
+  letter-spacing: 0.12px;
+  line-height: 25px;
+  opacity: 1;
+  pointer-events: auto;
+  position: absolute;
+  text-align: center;
+  top: 165px;
+  transition: all 0.2s ease;
+  width: 106px;
+}
+.artists .credits-C61RwL:hover {
+
+opacity: 0;
+}
+.artists .home-C61RwL {
+  --z-index: 1;
+  background-color: transparent;
+  color: rgba(250,237,220,1.0);
+  cursor: pointer;
+  font-family: 'AdobeClean-Regular', Helvetica;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 98px;
+  letter-spacing: 0.12px;
+  line-height: 25px;
+  opacity: 1;
+  pointer-events: auto;
+  position: absolute;
+  text-align: center;
+  top: 27px;
+  transition: all 0.2s ease;
+  width: 96px;
+}
+.artists .home-C61RwL:hover {
+
+opacity: 0;
+}
+.artists .rectangle-1-C61RwL {
+  --z-index: 5;
+  background-color: rgba(137,68,94,0.82);
+  border: 1px solid rgba(112,112,112,1.0);
+  border-radius: 39px;
+  height: 63px;
+  left: 300px;
+  opacity: 1;
+  position: absolute;
+  top: 500px;
+  width: 239px;
+}
+.artists .rectangle-10-C61RwL {
+  --z-index: 14;
+  background-color: rgba(137,68,94,0.82);
+  border: 1px solid rgba(112,112,112,1.0);
+  border-radius: 39px;
+  height: 63px;
+  left: 300px;
+  opacity: 1;
+  position: absolute;
+  top: 1508px;
+  width: 239px;
+}
+.artists .rectangle-11-C61RwL {
+  --z-index: 15;
+  background-color: rgba(137,68,94,0.82);
+  border: 1px solid rgba(112,112,112,1.0);
+  border-radius: 39px;
+  height: 63px;
+  left: 566px;
+  opacity: 1;
+  position: absolute;
+  top: 1508px;
+  width: 239px;
+}
+.artists .rectangle-12-C61RwL {
+  --z-index: 16;
+  background-color: rgba(137,68,94,0.82);
+  border: 1px solid rgba(112,112,112,1.0);
+  border-radius: 39px;
+  height: 63px;
+  left: 814px;
+  opacity: 1;
+  position: absolute;
+  top: 1508px;
+  width: 239px;
+}
+.artists .rectangle-13-C61RwL {
+  --z-index: 17;
+  background-color: rgba(137,68,94,0.82);
+  border: 1px solid rgba(112,112,112,1.0);
+  border-radius: 39px;
+  height: 63px;
+  left: 300px;
+  opacity: 1;
+  position: absolute;
+  top: 1820px;
+  width: 239px;
+}
+.artists .rectangle-14-C61RwL {
+  --z-index: 18;
+  background-color: rgba(137,68,94,0.82);
+  border: 1px solid rgba(112,112,112,1.0);
+  border-radius: 39px;
+  height: 63px;
+  left: 556px;
+  opacity: 1;
+  position: absolute;
+  top: 1820px;
+  width: 239px;
+}
+.artists .rectangle-15-C61RwL {
+  --z-index: 19;
+  background-color: rgba(137,68,94,0.82);
+  border: 1px solid rgba(112,112,112,1.0);
+  border-radius: 39px;
+  height: 63px;
+  left: 814px;
+  opacity: 1;
+  position: absolute;
+  top: 1820px;
+  width: 239px;
+}
+.artists .rectangle-16-C61RwL {
+  --z-index: 20;
+  background-color: rgba(137,68,94,0.82);
+  border: 1px solid rgba(112,112,112,1.0);
+  border-radius: 39px;
+  height: 63px;
+  left: 300px;
+  opacity: 1;
+  position: absolute;
+  top: 2132px;
+  width: 239px;
+}
+.artists .rectangle-17-C61RwL {
+  --z-index: 21;
+  background-color: rgba(137,68,94,0.82);
+  border: 1px solid rgba(112,112,112,1.0);
+  border-radius: 39px;
+  height: 63px;
+  left: 556px;
+  opacity: 1;
+  position: absolute;
+  top: 2132px;
+  width: 239px;
+}
+.artists .rectangle-18-C61RwL {
+  --z-index: 22;
+  background-color: rgba(137,68,94,0.82);
+  border: 1px solid rgba(112,112,112,1.0);
+  border-radius: 39px;
+  height: 63px;
+  left: 814px;
+  opacity: 1;
+  position: absolute;
+  top: 2132px;
+  width: 239px;
+}
+.artists .rectangle-2-C61RwL {
+  --z-index: 6;
+  background-color: rgba(137,68,94,0.82);
+  border: 1px solid rgba(112,112,112,1.0);
+  border-radius: 39px;
+  height: 63px;
+  left: 574px;
+  opacity: 1;
+  position: absolute;
+  top: 500px;
+  width: 239px;
+}
+.artists .rectangle-3-C61RwL {
+  --z-index: 7;
+  background-color: rgba(137,68,94,0.82);
+  border: 1px solid rgba(112,112,112,1.0);
+  border-radius: 39px;
+  height: 63px;
+  left: 832px;
+  opacity: 1;
+  position: absolute;
+  top: 500px;
+  width: 239px;
+}
+.artists .rectangle-4-C61RwL {
+  --z-index: 8;
+  background-color: rgba(137,68,94,0.82);
+  border: 1px solid rgba(112,112,112,1.0);
+  border-radius: 39px;
+  height: 63px;
+  left: 300px;
+  opacity: 1;
+  position: absolute;
+  top: 848px;
+  width: 239px;
+}
+.artists .rectangle-5-C61RwL {
+  --z-index: 9;
+  background-color: rgba(137,68,94,0.82);
+  border: 1px solid rgba(112,112,112,1.0);
+  border-radius: 39px;
+  height: 63px;
+  left: 556px;
+  opacity: 1;
+  position: absolute;
+  top: 848px;
+  width: 239px;
+}
+.artists .rectangle-6-C61RwL {
+  --z-index: 10;
+  background-color: rgba(137,68,94,0.82);
+  border: 1px solid rgba(112,112,112,1.0);
+  border-radius: 39px;
+  height: 63px;
+  left: 814px;
+  opacity: 1;
+  position: absolute;
+  top: 848px;
+  width: 239px;
+}
+.artists .rectangle-7-C61RwL {
+  --z-index: 11;
+  background-color: rgba(137,68,94,0.82);
+  border: 1px solid rgba(112,112,112,1.0);
+  border-radius: 39px;
+  height: 63px;
+  left: 300px;
+  opacity: 1;
+  position: absolute;
+  top: 1196px;
+  width: 239px;
+}
+.artists .rectangle-8-C61RwL {
+  --z-index: 12;
+  background-color: rgba(137,68,94,0.82);
+  border: 1px solid rgba(112,112,112,1.0);
+  border-radius: 39px;
+  height: 63px;
+  left: 556px;
+  opacity: 1;
+  position: absolute;
+  top: 1196px;
+  width: 239px;
+}
+.artists .rectangle-9-C61RwL {
+  --z-index: 13;
+  background-color: rgba(137,68,94,0.82);
+  border: 1px solid rgba(112,112,112,1.0);
+  border-radius: 39px;
+  height: 63px;
+  left: 814px;
+  opacity: 1;
+  position: absolute;
+  top: 1196px;
+  width: 239px;
+}
+.artists .untitled-artwork-3-C61RwL {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/untitled-artwork-3-1@1x.png);
+  background-size: 100% 100%;
+  height: 532px;
+  left: -586px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: -132px;
+  width: 1271px;
+}
+/* screen - credits */
+
+.credits {
+  background-color: rgba(250,237,220,1.0);
+  height: 800px;
+  opacity: 1;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1280px;
+}
+.credits .about-C61RwL {
+  --z-index: 7;
+  background-color: transparent;
+  color: rgba(250,237,220,1.0);
+  cursor: pointer;
+  font-family: 'AdobeClean-Regular', Helvetica;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 145px;
+  letter-spacing: 0.12px;
+  line-height: 25px;
+  opacity: 1;
+  pointer-events: auto;
+  position: absolute;
+  text-align: center;
+  top: 117px;
+  transition: all 0.2s ease;
+  width: 100px;
+}
+.credits .about-C61RwL:hover {
+
+opacity: 0;
+}
+.credits .acknowledgements-C61RwL {
+  --z-index: 1;
+  background-color: transparent;
+  color: rgba(250,237,220,1.0);
+  font-family: 'AdobeClean-Regular', Helvetica;
+  font-size: 45px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 328px;
+  letter-spacing: 2.25px;
+  line-height: 45px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 246px;
+  width: 754px;
+}
+.credits .andrea-cole-dea-iana-kaloussian-C61RwL {
+  --z-index: 3;
+  background-color: transparent;
+  color: rgba(250,237,220,1.0);
+  font-family: "Adobe Clean", Helvetica;
+  font-size: 15px;
+  height: auto;
+  left: 456px;
+  letter-spacing: 0.75px;
+  line-height: 20px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 300px;
+  width: 519px;
+}
+.credits .artists-C61RwL {
+  --z-index: 8;
+  background-color: transparent;
+  color: rgba(250,237,220,1.0);
+  cursor: pointer;
+  font-family: 'AdobeClean-Regular', Helvetica;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 234px;
+  letter-spacing: 0.12px;
+  line-height: 25px;
+  opacity: 1;
+  pointer-events: auto;
+  position: absolute;
+  text-align: center;
+  top: 117px;
+  transition: all 0.2s ease;
+  width: 99px;
+}
+.credits .artists-C61RwL:hover {
+
+opacity: 0;
+}
+.credits .credits-C61RwL {
+  --z-index: 9;
+  background-color: transparent;
+  color: rgba(250,237,220,1.0);
+  font-family: 'AdobeClean-Regular', Helvetica;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 331px;
+  letter-spacing: 0.12px;
+  line-height: 25px;
+  opacity: 1;
+  pointer-events: auto;
+  position: absolute;
+  text-align: center;
+  top: 117px;
+  transition: all 0.2s ease;
+  width: 106px;
+}
+.credits .credits-C61RwL:hover {
+
+opacity: 0;
+}
+.credits .dawson-d-logo-large-C61RwL {
+  --z-index: 4;
+  background-color: transparent;
+  background-image: url(../img/dawson-d-logo-large-1@1x.png);
+  background-size: 100% 100%;
+  border-radius: 33px;
+  cursor: pointer;
+  height: 65px;
+  left: 23px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 1001px;
+  width: 82px;
+}
+.credits .dawson-d-logo-large-VMr6Om {
+  --z-index: 10;
+  background-color: transparent;
+  background-image: url(../img/dawson-d-logo-large-1@1x.png);
+  background-size: 100% 100%;
+  border-radius: 33px;
+  cursor: pointer;
+  height: 65px;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 721px;
+  width: 82px;
+}
+.credits .home-C61RwL {
+  --z-index: 6;
+  background-color: transparent;
+  color: rgba(250,237,220,1.0);
+  cursor: pointer;
+  font-family: 'AdobeClean-Regular', Helvetica;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 51px;
+  letter-spacing: 0.12px;
+  line-height: 25px;
+  opacity: 1;
+  pointer-events: auto;
+  position: absolute;
+  text-align: center;
+  top: 117px;
+  transition: all 0.2s ease;
+  width: 96px;
+}
+.credits .home-C61RwL:hover {
+
+opacity: 0;
+}
+.credits .rectangle-1-C61RwL {
+  --z-index: 2;
+  background-color: rgba(137,68,94,0.82);
+  border: 1px solid rgba(112,112,112,1.0);
+  border-radius: 39px;
+  height: 266px;
+  left: 490px;
+  opacity: 1;
+  position: absolute;
+  top: 302px;
+  width: 428px;
+}
+.credits .span0-lLTrh0 {
+  font-family: 'AdobeClean-Regular', Helvetica;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0.00px;
+}
+.credits .span1-lLTrh0 {
+  font-family: 'AdobeClean-Regular', Helvetica;
+  font-style: normal;
+  font-weight: 400;
+}
+.credits .untitled-artwork-2-C61RwL {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/untitled-artwork-2-1@1x.png);
+  background-size: 100% 100%;
+  border-radius: 883px;
+  height: 743px;
+  left: 41px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 98px;
+  width: 1444px;
+}
+.credits .untitled-artwork-C61RwL {
+  --z-index: 5;
+  background-color: transparent;
+  background-image: url(../img/untitled-artwork-4@1x.png);
+  background-size: 100% 100%;
+  height: 930px;
+  left: -597px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: -314px;
+  width: 1604px;
+}
